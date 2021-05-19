@@ -1,3 +1,3 @@
-# Шаблон для верстки
+# Landify - Landing Page UI Kit v1.1
 
 ---
