@@ -1,3 +1,7 @@
 .header {
-
+  &__nav {
+    display: flex;
+    align-items: center;
+    min-height: 72px;
+  }
 }
